@@ -2,6 +2,8 @@
 
 This repo will consist of a tutorial going through how align the H. Influenzae 16S gene using [Cipres](http://www.phylo.org/). The two alignment techniques used will be Muscle Alignment and MAFFT Alignment.
 
+Our explanation slide going through both of these techniques can be found in our [presentation](https://docs.google.com/presentation/d/17b1fmlNiDsnRNl6CX-3vmXKynmYSaxxbqQ1F7KIsx-Q/edit#slide=id.g124f8f2f274_1_60).
+
 ### Team Members:
 - Anush Niranjan
 - Catherine Nguyen
