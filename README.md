@@ -8,10 +8,11 @@ This repo will consist of a tutorial going through how align the H. Influenzae 1
 - Jason Ellstrom
 
 ## Instructions:
-1) Setup pholo account
-2) Import sequence
-3) Setup Muscle Task -> Run job -> Download Output file
-4) Setup MAFFT Task -> Run job -> Download Output file
-5) Download Jalview -> Import output files to visualize
+1) Setup phylo account
+2) Download sequence (Haemophilus_influenzae_16S.fasta)
+3) Import sequence
+4) Setup Muscle Task -> Run job -> Download Output file
+5) Setup MAFFT Task -> Run job -> Download Output file
+6) Download Jalview -> Import output files to visualize
 
-The output job also has runtimes for the tasks
+The output job also has runtimes for the tasks.
